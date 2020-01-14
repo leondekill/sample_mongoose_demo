@@ -14,7 +14,7 @@
     "axios": "^0.19.0",
     "bootstrap": "^3.4.1",
     "element-ui": "^2.13.0",
-    "jquery": "^1.12.4",
+    "jquery": "^3.4.0",
     "qs": "^6.9.1",
     "regenerator": "^0.13.1",
     "vue": "^2.5.2",
